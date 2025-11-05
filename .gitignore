@@ -1,0 +1,78 @@
+# ----------------------------------------------------------------------
+# DEPENDENCIAS Y PAQUETES (MUY IMPORTANTE)
+# ----------------------------------------------------------------------
+# Dependencias de Node (npm)
+/node_modules
+# Archivos de registro de npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Paquetes de Python (si aplica)
+/venv
+__pycache__/
+*.pyc
+
+# ----------------------------------------------------------------------
+# ARCHIVOS COMPILADOS, DE CONSTRUCCIÓN Y DISTRIBUCIÓN
+# ----------------------------------------------------------------------
+# Directorios de salida (compilaciones, minificaciones, etc.)
+/dist
+/build
+/out
+/public/build
+/temp
+/tmp
+
+# Archivos de mapeo (Source Maps)
+*.map
+
+# Archivos de Vite/Rollup/Webpack
+.vite
+.cache
+.parcel-cache
+
+# ----------------------------------------------------------------------
+# VARIABLES DE ENTORNO Y CLAVES SENSIBLES (CRÍTICO)
+# ----------------------------------------------------------------------
+# Archivos de variables de entorno (contienen claves API, credenciales, etc.)
+.env
+.env.*
+!.env.example # Si tienes un archivo de ejemplo que SÍ quieres incluir
+
+# Archivos de credenciales específicos
+*.key
+*.pem
+*.p12
+
+# ----------------------------------------------------------------------
+# CONFIGURACIÓN ESPECÍFICA DEL IDE/EDITOR (Tu entorno local)
+# ----------------------------------------------------------------------
+# Visual Studio Code
+.vscode/
+
+# IDEs de JetBrains (WebStorm, PhpStorm, etc.)
+.idea/
+
+# Visual Studio (si es un proyecto .NET)
+.vs/
+*.user
+*.suo
+
+# ----------------------------------------------------------------------
+# ARCHIVOS DEL SISTEMA OPERATIVO
+# ----------------------------------------------------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# ----------------------------------------------------------------------
+# REGISTROS Y LOGS
+# ----------------------------------------------------------------------
+# Archivos de registro
+*.log
+log/
