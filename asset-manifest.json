@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/grupo-pacific/static/css/main.60bf8ce4.css",
-    "main.js": "/grupo-pacific/static/js/main.20edde01.js",
+    "main.css": "/grupo-pacific/static/css/main.6198967b.css",
+    "main.js": "/grupo-pacific/static/js/main.420f9d38.js",
     "index.html": "/grupo-pacific/index.html",
-    "main.60bf8ce4.css.map": "/grupo-pacific/static/css/main.60bf8ce4.css.map",
-    "main.20edde01.js.map": "/grupo-pacific/static/js/main.20edde01.js.map"
+    "main.6198967b.css.map": "/grupo-pacific/static/css/main.6198967b.css.map",
+    "main.420f9d38.js.map": "/grupo-pacific/static/js/main.420f9d38.js.map"
   },
   "entrypoints": [
-    "static/css/main.60bf8ce4.css",
-    "static/js/main.20edde01.js"
+    "static/css/main.6198967b.css",
+    "static/js/main.420f9d38.js"
   ]
 }
